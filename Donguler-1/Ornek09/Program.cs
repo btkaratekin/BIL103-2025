@@ -28,6 +28,8 @@ namespace Ornek09
                 }
             }
             Console.ReadKey();
+
+            
         }
     }
 }
